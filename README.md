@@ -1,1 +1,2 @@
-# sudoku-solver
+# Sudoku Solver from backtracking algorithm
+### Pretty straight forward from the title. Just a backtracking algorithm that checks the columns, rows, and sub-grids for any repeating numbers. If the code catches one, it will backtrack to where the error occured and will try again. The sudoku that I have hardcoded into my program was from sudoku.com's extreme gamemode where only 30% of players completed that board. With this solver I was able to solve it with a push of a button.
